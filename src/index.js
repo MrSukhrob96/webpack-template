@@ -17,3 +17,5 @@ Vue.component('example-component', require('./js/components/Example.vue').defaul
 const app = new Vue({
   el: '#app'
 })
+
+console.log(1)
